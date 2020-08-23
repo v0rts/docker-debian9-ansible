@@ -1,6 +1,8 @@
 # Debian 9 (stretch) Ansible Test Image
 
 [![Docker Automated build](https://img.shields.io/docker/automated/v0rts/docker-debian9-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/v0rts/docker-debian9-ansible/)
+[![Docker Automated build](https://img.shields.io/docker/pulls/v0rts/docker-debian9-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/v0rts/docker-debian9-ansible/)
+[![Docker Automated build](https://img.shields.io/docker/stars/v0rts/docker-debian9-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/v0rts/docker-debian9-ansible/)
 
 Debian 9 (stretch) Docker container for Ansible playbook and role testing.
 
